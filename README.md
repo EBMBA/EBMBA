@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emile METRAL
+- 👋 Hi, I’m Emile METRAL 🇲🇫🇪🇺
 - 👀 I’m interested in :
   - Administration serveurs web (APACHE2, NGINX), de base de données (MySQL, MariaDB, SQL Server Express, ORACLE) et de stockage (TrueNAS, FreeNAS, NextCloud) ;
   - Configuration de serveurs WINDOWS Server (Active Directory, GPO, DNS, MDT-WDS) ;
