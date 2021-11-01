@@ -36,16 +36,16 @@
 # Top Repositories 
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/EBMBA/C.VMware_VIX.API">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EBMBA&repo=C.VMware_VIX.API&theme=vue"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/EBMBA/ADDS_UsersUnlock">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EBMBA&repo=ADDS_UsersUnlock&theme=vue"/>
  </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/EBMBA/DeployTool">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EBMBA&repo=DeployTool&theme=vue"/>
  </a>
 </p>
