@@ -1,7 +1,7 @@
 # About me
 - 👋 Hi, I’m Emile METRAL 🇲🇫🇪🇺
 - 👀 I’m interested in :
-  - DevOps' jobs ;
+  - SRE / DevOps' jobs ;
   - Application / Cloud / Storage Security ; 
 - 🌱 I’m currently learning in CPE Lyon (Engineer School) in Computer Science and Cyber-security
 <!--- - 💞️ I’m looking to collaborate on ... --->
