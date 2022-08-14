@@ -1,5 +1,5 @@
 # About me
-- 👋 Hi, I’m Emile METRAL 🇲🇫🇪🇺
+- 👋 Hi, I’m Emile 🇲🇫🇪🇺
 - 👀 I’m interested in :
   - SRE / DevOps' jobs ;
   - Application / Cloud / Storage Security ; 
