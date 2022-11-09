@@ -50,11 +50,4 @@
  </a>
 </p>
 
---------------------
-# Computer and Cybersecurity Engineer program at CPE Lyon
-<p align="center">
-<a href="https://github.com/EBMBA/Prisoner-Dilemma-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EBMBA&repo=Prisoner-Dilemma-Game&theme=vue"/>
- </a>
-</p>
 
