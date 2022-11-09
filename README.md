@@ -4,10 +4,9 @@
   - SRE / DevOps' jobs ;
   - Application / Cloud / Storage Security ; 
 - 🌱 I’m currently learning in CPE Lyon (Engineer School) in Computer Science and Cyber-security
-<!--- - 💞️ I’m looking to collaborate on ... --->
+- 💞️ I’m looking to collaborate on Go projects 
 - 📫 How to reach me :
   - e.b.metral@gmail.com
-  - emetral.fr/blog
 
 <p align="center">
 <a href="https://fr.linkedin.com/in/emile-m-15494b162">
