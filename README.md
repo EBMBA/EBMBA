@@ -37,6 +37,7 @@
 # My Certifications
 <p align="center">
   <a href="https://www.credly.com/badges/c37a8c73-70c9-4645-a081-fb06a4a7cd76/public_url"><img align="center" src="./img/cka-certified-kubernetes-administrator(1).png" width="100" height="100"></a>
+  <a href="https://www.credly.com/badges/af6e6ee4-2290-4010-bfce-2880df13fc28/public_url"><img align="center" src="./img/cks-certified-kubernetes-security-specialist.png" width="100" height="100"></a>
 </p>
 
 --------------------
